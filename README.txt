@@ -2,7 +2,7 @@ Usage Steps:
 1. Download user-export from wordpress
 2. Drag and drop into AVIDMatching Folder
 3. Rename user-export to SORTME.csv
-4. Double Click ClickMe.Command
+4. Double Click ClickMe.Command (MAC Version) or PHPWrapper.jar (Windows Version)
 5. Match file in Matches Folder (name will correspond to date/time of running)
 
 Basic Facts
